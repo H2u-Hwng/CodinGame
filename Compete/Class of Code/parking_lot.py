@@ -1,3 +1,5 @@
+# Problem: https://docs.google.com/document/d/1bqcjarrWxMB-2zzIxx45_THnfB3XFHUe3sa8N2B5aDA/edit?usp=sharing
+
 slots = int(input('Enter number of slots: ')) # prompt number of slots
 
 n_cars = int(input('Enter number of cars: ')) # prompt number of cars
